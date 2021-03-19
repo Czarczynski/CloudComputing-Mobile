@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CC24D79F-F4E9-44A1-9222-F13E41EA0E76}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab1__czarczynski PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1_czarczynski/Startup.cs">
+    <Files>
+      <File FileName="Lab1_czarczynski/Controllers/PeopleController.cs" Line="115" Column="1" />
+      <File FileName="Lab1_czarczynski/Models/Person.cs" />
+      <File FileName="Lab1_czarczynski/Startup.cs" Line="40" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1_czarczynski" expanded="True">
+            <Node name="Lab1_czarczynski" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

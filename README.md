@@ -1,3 +1,3 @@
-# lab1_mateusz_czarczynski
+# Cloud Computing - Zajęcia "Cloud Computing & IoT"
 
-<a href="https://lab1mczarczynski.azurewebsites.net/swagger/index.html" target="_blank">Swagger aplikacji</a>
+# Mobile - Zajęcia "Podstawy aplikacji mobilnych na platformę Android"
