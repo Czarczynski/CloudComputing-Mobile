@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQEZUxqcbbq35ehJi834cLReT4pZ8Dj3l+fjojYzSpHQjtsLvjpCpzvOp+KiYfA5lRESeS47aqmOwr4m/fwJTw==",
+  "success": true,
+  "projectFilePath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateuszczarczynski/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/restease/1.4.11/restease.1.4.11.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.reflection.emit.ilgeneration/4.0.1/system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

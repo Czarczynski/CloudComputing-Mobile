@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{10DE18F7-41B9-421A-843E-E635F5544956}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_app/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Lab3_app/App.xaml.cs" Line="16" Column="42" />
+      <File FileName="Lab3_app/MainPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="Lab3_app.iOS/Info.plist" />
+      <File FileName="Lab3_app.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3_app" expanded="True">
+            <Node name="Lab3_app" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Lab3_app.iOS" expanded="True" />
+            <Node name="Lab3_app.Repositories" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab3__app.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D7038D52-99FC-433D-AAC3-5C2F14A6E20A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

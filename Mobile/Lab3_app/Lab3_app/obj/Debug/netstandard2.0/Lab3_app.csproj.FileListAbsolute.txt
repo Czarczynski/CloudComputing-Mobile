@@ -1,0 +1,17 @@
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/bin/Debug/netstandard2.0/Lab3_app.deps.json
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/bin/Debug/netstandard2.0/Lab3_app.dll
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/bin/Debug/netstandard2.0/ref/Lab3_app.dll
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/bin/Debug/netstandard2.0/Lab3_app.pdb
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/bin/Debug/netstandard2.0/Lab3_app.Repositories.dll
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/bin/Debug/netstandard2.0/Lab3_app.Repositories.pdb
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.csprojAssemblyReference.cache
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.AssemblyInfoInputs.cache
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.AssemblyInfo.cs
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.csproj.CoreCompileInputs.cache
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.csproj.CopyComplete
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.dll
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/ref/Lab3_app.dll
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/Debug/netstandard2.0/Lab3_app.pdb
