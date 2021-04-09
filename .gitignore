@@ -5,3 +5,5 @@ Lab1_czarczynski/Lab1_czarczynski/obj/
 .DS_Store
 **/obj/
 **/bin/
+**/.vs/
+**/.idea/
