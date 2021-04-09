@@ -219,7 +219,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "RestEase": "1.4.11"
+          "RestEase": "1.5.4"
         },
         "compile": {
           "bin/placeholder/Lab3_app.Repositories.dll": {}
@@ -1354,14 +1354,14 @@
       "outputPath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mateuszczarczynski/.config/NuGet/NuGet.Config"
+        "/Users/mateuszczarczynski/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/SellPanderPl/SellPander/_packaging/SellPander/nuget/v3/index.json": {}
+        "https://pkgs.dev.azure.com/SellPanderPl/SellPander/_packaging/SellPander/nuget/v3/index.json/": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -1420,7 +1420,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

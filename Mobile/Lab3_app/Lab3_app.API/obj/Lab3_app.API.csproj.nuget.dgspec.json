@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.API/Lab3_app.API.csproj": {}
+  },
+  "projects": {
+    "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.API/Lab3_app.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.API/Lab3_app.API.csproj",
+        "projectName": "Lab3_app.API",
+        "projectPath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.API/Lab3_app.API.csproj",
+        "packagesPath": "/Users/mateuszczarczynski/.nuget/packages/",
+        "outputPath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mateuszczarczynski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SellPanderPl/SellPander/_packaging/SellPander/nuget/v3/index.json/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj": {
+                "projectPath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj",
+        "projectName": "Lab3_app.Repositories",
+        "projectPath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj",
+        "packagesPath": "/Users/mateuszczarczynski/.nuget/packages/",
+        "outputPath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mateuszczarczynski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SellPanderPl/SellPander/_packaging/SellPander/nuget/v3/index.json/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "RestEase": {
+              "target": "Package",
+              "version": "[1.5.4, )"
+            },
+            "RestEase.SourceGenerator": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

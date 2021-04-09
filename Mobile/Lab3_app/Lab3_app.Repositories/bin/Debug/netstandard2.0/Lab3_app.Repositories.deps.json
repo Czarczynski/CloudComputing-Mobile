@@ -10,7 +10,8 @@
       "Lab3_app.Repositories/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "RestEase": "1.4.11"
+          "RestEase": "1.5.4",
+          "RestEase.SourceGenerator": "1.5.4"
         },
         "runtime": {
           "Lab3_app.Repositories.dll": {}
@@ -31,18 +32,19 @@
           }
         }
       },
-      "RestEase/1.4.11": {
+      "RestEase/1.5.4": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.1",
           "System.Reflection.Emit": "4.0.1"
         },
         "runtime": {
           "lib/netstandard2.0/RestEase.dll": {
-            "assemblyVersion": "1.4.11.0",
-            "fileVersion": "1.4.11.0"
+            "assemblyVersion": "1.5.4.0",
+            "fileVersion": "1.5.4.0"
           }
         }
       },
+      "RestEase.SourceGenerator/1.5.4": {},
       "System.IO/4.1.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -152,12 +154,19 @@
       "path": "newtonsoft.json/11.0.1",
       "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
     },
-    "RestEase/1.4.11": {
+    "RestEase/1.5.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IwG1MlvXYZzmm/T6N3F8/PcJ8cVH6BlxDaUFcZ9K1Rysd3kYEWNKnf2HVUfnx3AStSJyUJvkAEJYfUu79Wt75Q==",
-      "path": "restease/1.4.11",
-      "hashPath": "restease.1.4.11.nupkg.sha512"
+      "sha512": "sha512-PG3jpzeRAu6GQ+u+8vlhfrbruJkYgdo0Z58PBFa9P9jaO9GpYUe+R49N6CQInC/tcp5vGZ8xSZCw0+SIfQXmPA==",
+      "path": "restease/1.5.4",
+      "hashPath": "restease.1.5.4.nupkg.sha512"
+    },
+    "RestEase.SourceGenerator/1.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dE2lRawHXqImS++sEiTMlLGpFVQcDW98DrbdEcuM4ZXduMP36fCj7q9bFy/+h7WOFky/8LevA2xUJRm0kVrOhA==",
+      "path": "restease.sourcegenerator/1.5.4",
+      "hashPath": "restease.sourcegenerator.1.5.4.nupkg.sha512"
     },
     "System.IO/4.1.0": {
       "type": "package",

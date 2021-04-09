@@ -1,32 +1,32 @@
-﻿<Properties StartupConfiguration="{10DE18F7-41B9-421A-843E-E635F5544956}|Default">
+﻿<Properties StartupConfiguration="{22E309CE-A09E-473F-8094-611DB3F73DB1}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_app/MainPage.xaml.cs">
     <Files>
-      <File FileName="Lab3_app/App.xaml.cs" Line="16" Column="42" />
-      <File FileName="Lab3_app/MainPage.xaml.cs" Line="22" Column="1" />
-      <File FileName="Lab3_app.iOS/Info.plist" />
-      <File FileName="Lab3_app.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Lab3_app/MainPage.xaml.cs" Line="6" Column="15" />
+      <File FileName="Lab3_app/App.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lab3_app" expanded="True">
-            <Node name="Lab3_app" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="Lab3_app.iOS" expanded="True" />
-            <Node name="Lab3_app.Repositories" expanded="True" />
-          </Node>
+          <Node name="Lab3_app" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lab3__app.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D7038D52-99FC-433D-AAC3-5C2F14A6E20A" />
+  <MonoDevelop.Ide.ItemProperties.Lab3__app.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C3A70B53-F24D-46BA-86BC-AE1D477620F2" />
+  <MonoDevelop.Ide.ItemProperties.Lab3__app.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app/MainPage.xaml.cs" relfile="Lab3_app/MainPage.xaml.cs" line="37" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{22E309CE-A09E-473F-8094-611DB3F73DB1}" ItemName="Lab3_app.API" ConfigurationId="Default" />
+        <StartupItem ItemId="{10DE18F7-41B9-421A-843E-E635F5544956}" ItemName="Lab3_app.iOS" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
 </Properties>

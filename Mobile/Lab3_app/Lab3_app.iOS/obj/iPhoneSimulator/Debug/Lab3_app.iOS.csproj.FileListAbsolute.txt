@@ -52,14 +52,14 @@
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/bin/iPhoneSimulator/Debug/Lab3_app.Repositories.dll
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/bin/iPhoneSimulator/Debug/Lab3_app.pdb
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/bin/iPhoneSimulator/Debug/Lab3_app.Repositories.pdb
-/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/actool/_PartialAppManifest.items
-/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/actool/_BundleResourceWithLogicalName.items
-/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/ibtool/_BundleResourceWithLogicalName.items
-/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/coremlc/_PartialAppManifest.items
-/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/coremlc/_BundleResourceWithLogicalName.items
-/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/optimized/
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/Lab3_app.iOS.csprojAssemblyReference.cache
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/Lab3_app.iOS.csproj.CoreCompileInputs.cache
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/Lab3_app.iOS.csproj.CopyComplete
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/Lab3_app.iOS.exe
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/Lab3_app.iOS.pdb
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.4-14.4/actool/_PartialAppManifest.items
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.4-14.4/actool/_BundleResourceWithLogicalName.items
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.4-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.4-14.4/coremlc/_PartialAppManifest.items
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.4-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.4-14.4/optimized/

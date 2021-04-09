@@ -218,7 +218,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "RestEase": "1.4.11"
+          "RestEase": "1.5.4"
         },
         "compile": {
           "bin/placeholder/Lab3_app.Repositories.dll": {}
@@ -445,7 +445,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "RestEase": "1.4.11"
+          "RestEase": "1.5.4"
         },
         "compile": {
           "bin/placeholder/Lab3_app.Repositories.dll": {}
@@ -672,7 +672,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "RestEase": "1.4.11"
+          "RestEase": "1.5.4"
         },
         "compile": {
           "bin/placeholder/Lab3_app.Repositories.dll": {}
@@ -899,7 +899,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "RestEase": "1.4.11"
+          "RestEase": "1.5.4"
         },
         "compile": {
           "bin/placeholder/Lab3_app.Repositories.dll": {}
@@ -1367,14 +1367,14 @@
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/mateuszczarczynski/.config/NuGet/NuGet.Config"
+        "/Users/mateuszczarczynski/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/SellPanderPl/SellPander/_packaging/SellPander/nuget/v3/index.json": {}
+        "https://pkgs.dev.azure.com/SellPanderPl/SellPander/_packaging/SellPander/nuget/v3/index.json/": {}
       },
       "frameworks": {
         "xamarinios10": {

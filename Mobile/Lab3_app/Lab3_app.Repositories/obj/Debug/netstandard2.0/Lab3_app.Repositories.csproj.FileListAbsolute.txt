@@ -1,6 +1,7 @@
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/bin/Debug/netstandard2.0/Lab3_app.Repositories.deps.json
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/bin/Debug/netstandard2.0/Lab3_app.Repositories.dll
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/bin/Debug/netstandard2.0/Lab3_app.Repositories.pdb
+/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/obj/Debug/netstandard2.0/Lab3_app.Repositories.csprojAssemblyReference.cache
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/obj/Debug/netstandard2.0/Lab3_app.Repositories.AssemblyInfoInputs.cache
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/obj/Debug/netstandard2.0/Lab3_app.Repositories.AssemblyInfo.cs
 /Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/obj/Debug/netstandard2.0/Lab3_app.Repositories.csproj.CoreCompileInputs.cache

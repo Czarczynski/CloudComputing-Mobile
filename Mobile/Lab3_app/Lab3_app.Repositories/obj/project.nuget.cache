@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gQEZUxqcbbq35ehJi834cLReT4pZ8Dj3l+fjojYzSpHQjtsLvjpCpzvOp+KiYfA5lRESeS47aqmOwr4m/fwJTw==",
+  "dgSpecHash": "p2RBkBHv7cFPEgstVZk0BxaEhlpLAi53tpnm6IGKmRoNPfysECpILVPAAx3xlyvzJwHTTWCWOnZSTjzxK9SO/A==",
   "success": true,
   "projectFilePath": "/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Mobile/Lab3_app/Lab3_app.Repositories/Lab3_app.Repositories.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "/Users/mateuszczarczynski/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/Users/mateuszczarczynski/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/mateuszczarczynski/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
-    "/Users/mateuszczarczynski/.nuget/packages/restease/1.4.11/restease.1.4.11.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/restease/1.5.4/restease.1.5.4.nupkg.sha512",
+    "/Users/mateuszczarczynski/.nuget/packages/restease.sourcegenerator/1.5.4/restease.sourcegenerator.1.5.4.nupkg.sha512",
     "/Users/mateuszczarczynski/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
     "/Users/mateuszczarczynski/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
     "/Users/mateuszczarczynski/.nuget/packages/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",
