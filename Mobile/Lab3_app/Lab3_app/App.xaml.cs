@@ -13,7 +13,10 @@ namespace Lab3_app
         public App()
         {
             var clientHandler = new HttpClientHandler();
-            clientHandler.ServerCertificateCustomValidationCallback += (sender, certificate, chain, sslPolicyErrors) => { return true; };
+            clientHandler.ServerCertificateCustomValidationCallback += (sender, certificate, chain, sslPolicyErrors) =>
+            {
+                return true;
+            };
             var client = RestEase.RestClient.For<IPeopleRepository>(API_URI, clientHandler);
             InitializeComponent();
 
