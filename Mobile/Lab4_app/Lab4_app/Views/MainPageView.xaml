@@ -12,18 +12,23 @@
     </ContentPage.BindingContext>
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="0.5*" />
-            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="0.3*" />
+            <RowDefinition Height="0.3*" />
             <RowDefinition Height="auto" />
         </Grid.RowDefinitions>
-        <Image Source="{Binding PictureParsed}" />
-        <StackLayout Grid.Row="1" Padding="20">
-            <Button Text="Take a Photo" Padding="20" Command="{Binding OnTakePhoto}"/>
+        <StackLayout Padding="20">
+            <Label Text="{Binding Error}" TextColor="Brown" HorizontalTextAlignment="Center" />
+            <Label Text="{Binding Info}" TextColor="Green" HorizontalTextAlignment="Center" />
+        </StackLayout>
+        <Image Grid.Row="1" Source="{Binding PictureParsed}" />
+        <StackLayout Grid.Row="2" Padding="20">
+            <Button Text="Take a Photo" Padding="20" Command="{Binding OnTakePhoto}" />
             <Entry Placeholder="First name" Text="{Binding Firstname}" />
             <Entry Placeholder="Last name" Text="{Binding Lastname}"/>
             <Entry Placeholder="Phone number" Keyboard="Text" Text="{Binding PhoneNumber}" />
         </StackLayout>
-        <StackLayout Grid.Row="2" VerticalOptions="EndAndExpand">
+        <StackLayout Grid.Row="3" VerticalOptions="EndAndExpand">
             <Button Text="Save data" Command="{Binding OnSaveData}"/>
         </StackLayout>
     </Grid>

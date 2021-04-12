@@ -4,6 +4,7 @@ using System.IO;
 using System.Net.Http;
 using System.Net.NetworkInformation;
 using System.Runtime.CompilerServices;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Lab4_app.Annotations;
@@ -21,15 +22,29 @@ namespace Lab4_app.ViewModels
             {
                 return true;
             };
-            var client = RestEase.RestClient.For<IPeopleRepository>(Consts.API_URI, clientHandler);
+            _client = RestEase.RestClient.For<IPeopleRepository>(Consts.API_URI, clientHandler);
             OnTakePhoto = new Command(() => OnTakePhotoClick());
             OnSaveData = new Command(async () => await OnSaveDataClick());
+            _infoThread = new Thread((info) =>
+            {
+                Info = (string)info;
+                Thread.Sleep(2500);
+                Info = "";
+            });
+            _errorThread = new Thread((error) =>
+            {
+                Error = (string)error;
+                Thread.Sleep(2500);
+                Error = "";
+            });
+            
         }
-        
+
+        private Thread _infoThread, _errorThread;
         private Person _person = new Person();
         private string _error = "";
         private string _info = "";
-        public IPeopleRepository Client;
+        private IPeopleRepository _client;
         public ICommand OnTakePhoto { get; set; }
         public ICommand OnSaveData { get; set; }
         public event PropertyChangedEventHandler PropertyChanged;
@@ -146,25 +161,28 @@ namespace Lab4_app.ViewModels
         {
             if (!Validate())
             {
-                Error = "First name, last name, phone number and picture are required.";
+                _errorThread.Start("First name, last name, phone number and picture are required.");
                 return;
             }
 
             try
             {
-                await Client.AddPersonAsync(_person);
-                Info = "Data has been saved.";
+                await _client.AddPersonAsync(_person);
                 Clear();
+                _infoThread.Start("Data has been saved");
             }
             catch (Exception ex)
             {
-                Error = ex.Message;
+                _errorThread.Start(ex.Message);
             }
         }
 
         private void Clear()
         {
-            _person = new Person();
+            Firstname = string.Empty;
+            Lastname = string.Empty;
+            PictureBase64 = string.Empty;
+            PhoneNumber = string.Empty;
         }
 
         private bool Validate()
