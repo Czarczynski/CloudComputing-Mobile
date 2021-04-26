@@ -28,13 +28,13 @@ namespace Lab5_app.WebApplication
 
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowOrigin", builder =>
-                        builder.WithOrigins(new[] {"http://192.168.1.36:5000", "https://192.168.1.36:5001"})
-                            .AllowAnyHeader()
-                            .AllowAnyMethod()
-                            .AllowCredentials()
-                            .SetIsOriginAllowed((host) => true) //for signalr cors  
-                );
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+
+                });
             });
 
             services.AddSession();
@@ -65,7 +65,7 @@ namespace Lab5_app.WebApplication
             app.UseSession();
 
 
-            app.UseCors("AllowOrigin");
+            app.UseCors();
 
             app.UseEndpoints(endpoints =>
             {
