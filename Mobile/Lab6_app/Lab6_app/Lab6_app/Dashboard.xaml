@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Lab6_app"
+             x:Class="Lab6_app.Dashboard">
+    <!-- <TabbedPage.Children> -->
+    <!--     <local:TabPage1 Title="Tab 1"/> -->
+    <!--     <local:TabPage2 Title="Tab 2"/> -->
+    <!-- </TabbedPage.Children> -->
+</TabbedPage>
